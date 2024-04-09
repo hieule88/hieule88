@@ -14,7 +14,7 @@ Hieu Le</a></h1>
 
 - 💬 Ask me about CUDA, HIP C/C++ Programming, and HPC-related topics.
   
-- 📫 How to reach me **hieule.it88@gmail.com**
+- 📫 Feel free to reach me out **hieule.it88@gmail.com**
 
 - 📄 Know about my experiences <a href="https://www.dropbox.com/scl/fi/oq6opfy2vapolb51e10zq/LeDinhHieu-CV.pdf?rlkey=6hnf3p9qe3o7j7xvj5fvfqhfx&dl=0" target="blank">Resume</a>
 
