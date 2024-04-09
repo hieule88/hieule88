@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/hieu-le-dinh-481a871b9/" target="blank">
 Hieu Le</a></h1>
-<h3 align="center">A passionate GPU Engineer from Moreh Vietnam</h3>
+<h3 align="center">A passionate GPU Engineer from Hanoi, Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hieule88&label=Profile%20views&color=0e75b6&style=flat" alt="hieule88" /> </p>
 
