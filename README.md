@@ -19,9 +19,9 @@ Hieu Le</a></h1>
 - 📄 Know about my experiences <a href="https://www.dropbox.com/scl/fi/oq6opfy2vapolb51e10zq/LeDinhHieu-CV.pdf?rlkey=6hnf3p9qe3o7j7xvj5fvfqhfx&dl=0" target="blank">Resume</a>
 
 - 💬 My favourite quote: 
-	<div style="font-style: italic; margin-top: 10px; text-align: "right";>
+	<div>
         <i>"He who has a why bears any how"</i>
-        <br>
+        <br/>
         - Friedrich Nietzsche -
     	</div>
 <br/>
